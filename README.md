@@ -11,7 +11,7 @@ Those three things must be obtained from the https://slackbuilds.org/ website.
 Examples : Say for example one wants to install the "gnustep-make" package, the relevant SlackBuild page would be : 
 https://slackbuilds.org/repository/15.0/development/gnustep-make/ .
 
-Therefore at the user prompt when using this software the user will follow this procedure: 
+Therefore at the user prompt when running this software the user will follow this procedure: 
 
       Please type the name of the package you want to build and install: gnustep-make
       Please type the link of the SlackBuild archive: https://slackbuilds.org/slackbuilds/15.0/development/gnustep-make.tar.gz
