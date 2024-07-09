@@ -13,9 +13,9 @@ https://slackbuilds.org/repository/15.0/development/gnustep-make/ .
 
 Therefore at the user prompt when using this software the user will follow this procedure: 
 
-Enter the name of the package you want to build and install: gnustep-make
-Enter the link of the SlackBuild archive: https://slackbuilds.org/slackbuilds/15.0/development/gnustep-make.tar.gz
-Enter the package sources link: ftp://ftp.gnustep.org/pub/gnustep/core/gnustep-make-2.8.0.tar.gz
+      Please type the name of the package you want to build and install: gnustep-make
+      Please type the link of the SlackBuild archive: https://slackbuilds.org/slackbuilds/15.0/development/gnustep-make.tar.gz
+      Please type the package sources link: ftp://ftp.gnustep.org/pub/gnustep/core/gnustep-make-2.8.0.tar.gz
 
 
 
