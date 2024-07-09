@@ -1,7 +1,8 @@
 The main aim of "SlackBuild Automate" is to help the user in installing packages through the prebuilt scripts avaialable on https://slackbuilds.org/ , so that most of the procedure itself would be executed by the script.
 
-It is written in bash so nothing particual, as of now the user must install the built package with the installpkg command. 
-The packages are located in the /tmp folder.
+It is written in bash and as of now the user must install the built package with the "installpkg" command (refer to this guide for a general introduction on Slackware's package managment system : https://docs.slackware.com/slackbook:package_management). 
+
+The packages are located in the /tmp folder once succesfully compiled and built.
 
 "SlackBuild Automate" does not help the user with dependencies as those would still have to be manually managed by the system administrator, as in the usual Slackware manner.
 
