@@ -13,13 +13,13 @@ if [[ $EUID -ne 0 ]]; then
 fi
 
 #  Ask the user the name of the package he wants to build and install
-read -p "Enter the name of the package you want to build and install: " package_name
+read -p "Please type the name of the package you want to build and install: " package_name
 
 #  Ask the user for the link of the SlackBuild archive
-read -p "Enter the link of the SlackBuild archive: " slackbuild_link
+read -p "Please type the link of the SlackBuild archive: " slackbuild_link
 
 #  Ask the user for the package sources link
-read -p "Enter the package sources link: " source_link
+read -p "Please type the package sources link: " source_link
 
 #  Download and extract the SlackBuild archive
 wget -O ${package_name}.tar.gz $slackbuild_link
