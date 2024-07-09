@@ -4,7 +4,8 @@ It is written in bash and as of now the user must install the built package with
 
 The packages are located in the /tmp folder once succesfully compiled and built.
 
-"SlackBuild Automate" does not help the user with dependencies as those would still have to be manually managed by the system administrator, as in the usual Slackware manner.
+"SlackBuild Automate" does not help the user with dependencies as those would still have to be manually managed by the system administrator, as in the usual Slackware manner. 
+There are other tools which have been developed and maintained for a long time, such as Sbotools (https://pink-mist.github.io/sbotools/), which also automatically solve dependencies .
 
 The script will ask the user for three things : the package name, the link of the SlackBuilds archive, and the link of the actual software sources. 
 Those three things must be obtained from the https://slackbuilds.org/ website. 
